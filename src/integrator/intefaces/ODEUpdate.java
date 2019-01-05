@@ -2,6 +2,6 @@ package integrator.intefaces;
 
 public interface ODEUpdate {
 
-    //TODO implement me
+    void update(double t, double x, double v);
 
 }

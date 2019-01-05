@@ -2,6 +2,6 @@ package integrator.intefaces;
 
 public interface CalculateAcceleration {
 
-    //TODO implement me
+    double a(double x);
 
 }
