@@ -1,6 +1,5 @@
 package user_interface.classes;
 
-import clocks.classes.FuelStateUpdateClock;
 import engine.classes.Engine;
 import javafx.event.ActionEvent;
 
